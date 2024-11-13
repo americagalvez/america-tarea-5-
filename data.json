@@ -1,0 +1,65 @@
+{
+    "products": [
+      {
+        "title": "Perfume Floral",
+        "description": "Perfume femenino con fragancia floral ligera y fresca.",
+        "image": "1.jpg",
+        "price": 25.99
+      },
+      {
+        "title": "Planchas para el Pelo",
+        "description": "Planchas profesionales para un alisado perfecto sin dañar el cabello.",
+        "image": "2.jpg",
+        "price": 45.99
+      },
+      {
+        "title": "Secadora de Pelo",
+        "description": "Secadora de alta potencia para un secado rápido y eficiente.",
+        "image": "3.jpg",
+        "price": 34.99
+      },
+      {
+        "title": "Labial Mate",
+        "description": "Labial mate de larga duración con acabado suave y elegante.",
+        "image": "4.jpg",
+        "price": 15.99
+      },
+      {
+        "title": "Brocha para Maquillaje",
+        "description": "Brocha profesional para una aplicación precisa y uniforme de maquillaje.",
+        "image": "5.jpg",
+        "price": 19.99
+      },
+      {
+        "title": "Paleta de Sombras",
+        "description": "Paleta con colores vibrantes y duraderos para tus ojos.",
+        "image": "6.jpg",
+        "price": 29.99
+      },
+      {
+        "title": "Esmalte de Uñas",
+        "description": "Esmalte de uñas de colores intensos y acabado brillante.",
+        "image": "7.jpg",
+        "price": 8.99
+      },
+      {
+        "title": "Crema Hidratante",
+        "description": "Crema facial hidratante para todo tipo de piel.",
+        "image": "8.jpg",
+        "price": 18.99
+      },
+      {
+        "title": "Desmaquillante",
+        "description": "Desmaquillante suave que elimina eficazmente el maquillaje.",
+        "image": "9.jpg",
+        "price": 12.99
+      },
+      {
+        "title": "Rizador de Pestañas",
+        "description": "Rizador de pestañas para dar volumen y curvatura perfecta.",
+        "image": "10.jpg",
+        "price": 9.99
+      }
+    ]
+  }
+  
